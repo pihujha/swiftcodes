@@ -1,4 +1,4 @@
-# swiftcodes - Pihu Jha
+# MoodLoggingApp - Pihu Jha
 
 ## Tech/framework used
 Built with ___
